@@ -24,9 +24,11 @@ IntervuAI is a modern, responsive web application designed to help job seekers p
 
 Experience VoxNavi in action: [Live Link](https://vox-navi.vercel.app/)
 
-## 📱 Desktop View
+## 📱 Home Page
 
 ![Home Page](/public/homepage.png "Homepage")
+
+## 🤵🏻 Interview Page
 
 ![Interview Page](/public/Interview.png "Interview page")
 
